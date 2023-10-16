@@ -27,7 +27,7 @@ cd school-management-system
 ```markdown
 git checkout -b <your-branch-name>
 ```
-- Add your Name to `contributors.md`
+- Add your Name to `[contributors.md](contributors.md)`
 ```markdown
 git add contributors.md
 ```
