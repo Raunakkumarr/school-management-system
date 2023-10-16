@@ -11,4 +11,4 @@
 - You PR will be reviewed as soon as possible and added immediately if it does not violate any of the rules.
 
 ## Contributions:
-- Check `CONTRIBUTING.md` file for contribution rules and steps.
+- Check [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution rules and steps.
